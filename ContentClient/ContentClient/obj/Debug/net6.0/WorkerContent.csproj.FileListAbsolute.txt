@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\Exercicios\ContentClient\ContentClient\bin\Debug\net6.0\WorkerContent.exe
+C:\Users\Matheus\Desktop\Exercicios\ContentClient\ContentClient\bin\Debug\net6.0\WorkerContent.deps.json
+C:\Users\Matheus\Desktop\Exercicios\ContentClient\ContentClient\bin\Debug\net6.0\WorkerContent.runtimeconfig.json
+C:\Users\Matheus\Desktop\Exercicios\ContentClient\ContentClient\bin\Debug\net6.0\WorkerContent.dll
+C:\Users\Matheus\Desktop\Exercicios\ContentClient\ContentClient\bin\Debug\net6.0\WorkerContent.pdb
+C:\Users\Matheus\Desktop\Exercicios\ContentClient\ContentClient\obj\Debug\net6.0\WorkerContent.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\Exercicios\ContentClient\ContentClient\obj\Debug\net6.0\WorkerContent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Exercicios\ContentClient\ContentClient\obj\Debug\net6.0\WorkerContent.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Exercicios\ContentClient\ContentClient\obj\Debug\net6.0\WorkerContent.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Exercicios\ContentClient\ContentClient\obj\Debug\net6.0\WorkerContent.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Exercicios\ContentClient\ContentClient\obj\Debug\net6.0\WorkerContent.dll
+C:\Users\Matheus\Desktop\Exercicios\ContentClient\ContentClient\obj\Debug\net6.0\refint\WorkerContent.dll
+C:\Users\Matheus\Desktop\Exercicios\ContentClient\ContentClient\obj\Debug\net6.0\WorkerContent.pdb
+C:\Users\Matheus\Desktop\Exercicios\ContentClient\ContentClient\obj\Debug\net6.0\WorkerContent.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\Exercicios\ContentClient\ContentClient\obj\Debug\net6.0\ref\WorkerContent.dll
