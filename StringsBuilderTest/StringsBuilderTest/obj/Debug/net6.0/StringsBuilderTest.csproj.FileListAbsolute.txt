@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\Exercicios\StringsBuilderTest\StringsBuilderTest\bin\Debug\net6.0\StringsBuilderTest.exe
+C:\Users\Matheus\Desktop\Exercicios\StringsBuilderTest\StringsBuilderTest\bin\Debug\net6.0\StringsBuilderTest.deps.json
+C:\Users\Matheus\Desktop\Exercicios\StringsBuilderTest\StringsBuilderTest\bin\Debug\net6.0\StringsBuilderTest.runtimeconfig.json
+C:\Users\Matheus\Desktop\Exercicios\StringsBuilderTest\StringsBuilderTest\bin\Debug\net6.0\StringsBuilderTest.dll
+C:\Users\Matheus\Desktop\Exercicios\StringsBuilderTest\StringsBuilderTest\bin\Debug\net6.0\StringsBuilderTest.pdb
+C:\Users\Matheus\Desktop\Exercicios\StringsBuilderTest\StringsBuilderTest\obj\Debug\net6.0\StringsBuilderTest.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\Exercicios\StringsBuilderTest\StringsBuilderTest\obj\Debug\net6.0\StringsBuilderTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Exercicios\StringsBuilderTest\StringsBuilderTest\obj\Debug\net6.0\StringsBuilderTest.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Exercicios\StringsBuilderTest\StringsBuilderTest\obj\Debug\net6.0\StringsBuilderTest.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Exercicios\StringsBuilderTest\StringsBuilderTest\obj\Debug\net6.0\StringsBuilderTest.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Exercicios\StringsBuilderTest\StringsBuilderTest\obj\Debug\net6.0\StringsBuilderTest.dll
+C:\Users\Matheus\Desktop\Exercicios\StringsBuilderTest\StringsBuilderTest\obj\Debug\net6.0\refint\StringsBuilderTest.dll
+C:\Users\Matheus\Desktop\Exercicios\StringsBuilderTest\StringsBuilderTest\obj\Debug\net6.0\StringsBuilderTest.pdb
+C:\Users\Matheus\Desktop\Exercicios\StringsBuilderTest\StringsBuilderTest\obj\Debug\net6.0\StringsBuilderTest.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\Exercicios\StringsBuilderTest\StringsBuilderTest\obj\Debug\net6.0\ref\StringsBuilderTest.dll
