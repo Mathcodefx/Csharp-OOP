@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\Exercicios\OrderProduct\OrderProduct\bin\Debug\net6.0\OrderProduct.exe
+C:\Users\Matheus\Desktop\Exercicios\OrderProduct\OrderProduct\bin\Debug\net6.0\OrderProduct.deps.json
+C:\Users\Matheus\Desktop\Exercicios\OrderProduct\OrderProduct\bin\Debug\net6.0\OrderProduct.runtimeconfig.json
+C:\Users\Matheus\Desktop\Exercicios\OrderProduct\OrderProduct\bin\Debug\net6.0\OrderProduct.dll
+C:\Users\Matheus\Desktop\Exercicios\OrderProduct\OrderProduct\bin\Debug\net6.0\OrderProduct.pdb
+C:\Users\Matheus\Desktop\Exercicios\OrderProduct\OrderProduct\obj\Debug\net6.0\OrderProduct.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\Exercicios\OrderProduct\OrderProduct\obj\Debug\net6.0\OrderProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Exercicios\OrderProduct\OrderProduct\obj\Debug\net6.0\OrderProduct.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Exercicios\OrderProduct\OrderProduct\obj\Debug\net6.0\OrderProduct.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Exercicios\OrderProduct\OrderProduct\obj\Debug\net6.0\OrderProduct.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Exercicios\OrderProduct\OrderProduct\obj\Debug\net6.0\OrderProduct.dll
+C:\Users\Matheus\Desktop\Exercicios\OrderProduct\OrderProduct\obj\Debug\net6.0\refint\OrderProduct.dll
+C:\Users\Matheus\Desktop\Exercicios\OrderProduct\OrderProduct\obj\Debug\net6.0\OrderProduct.pdb
+C:\Users\Matheus\Desktop\Exercicios\OrderProduct\OrderProduct\obj\Debug\net6.0\OrderProduct.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\Exercicios\OrderProduct\OrderProduct\obj\Debug\net6.0\ref\OrderProduct.dll
